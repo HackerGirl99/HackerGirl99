@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 👀 I’m interested in **Frontend Development**, **UI/UX Design**, and **Machine Learning**
 - 🌱 I’m currently learning **Next.js** and **Python for Machine Learning**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile), [Upwork](https://www.upwork.com/freelancers/~012ce6ec9f3b56221b?mp_source=share)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asna-n), [Upwork](https://www.upwork.com/freelancers/~012ce6ec9f3b56221b?mp_source=share)
 - 🌐 My Portfolio: Will be available soon...
 
 ---
